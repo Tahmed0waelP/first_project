@@ -73,7 +73,7 @@
 /* Main Section Styling */
 
 .main {
-	min-height: 100vh;
+	min-height: 667px;
 	background: url("../images/image1.png");
 	background-position: center;
 	background-repeat: no-repeat;
@@ -109,7 +109,7 @@
 	padding: var(--padding);
 	text-align: center;
 	/* padding-block: 3rem; */
-	min-height: 100vh;
+	min-height: 667px;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
@@ -160,7 +160,7 @@
 	padding: var(--padding);
 	text-align: center;
 	/* padding-block: 3rem; */
-	min-height: 100vh;
+	min-height: 667px;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
@@ -216,7 +216,7 @@
 /* Section Three Styling */
 
 .three {
-	min-height: 100vh;
+	min-height: 667px;
 	display: flex;
 	
 }
@@ -253,7 +253,7 @@
 /* Section Four Styling */
 
 .four {
-	min-height: 100vh;
+	min-height: 667px;
 	display: flex;
 }
 
@@ -292,7 +292,7 @@
 	background: var(--color-one);
 	padding: var(--padding);
 	text-align: center;
-	min-height: 100vh;
+	min-height: 667px;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
@@ -321,7 +321,7 @@
 	background-position: center;
 	padding: var(--padding);
 	text-align: center;
-	min-height: 100vh;
+	min-height: 667px;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
@@ -344,7 +344,7 @@
 /* Footer Section Styling */
 
 .foot{
-	height: 100vh;
+	height: 667px;
 	display: flex;
 	flex-direction: column;
 }
